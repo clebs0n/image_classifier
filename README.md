@@ -1,1 +1,1 @@
-test
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clebs0n/image_classifier/HEAD?labpath=%2Fvoila%2Frender%2Freaction_classifier.ipynb)
